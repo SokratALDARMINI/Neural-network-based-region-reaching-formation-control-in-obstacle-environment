@@ -1,3 +1,4 @@
+# Neural network based region reaching formation control in obstacle environment
 This MATLAB program is done as a verification of the main results that are shown in the work "Yu, Jinwei, et al. "Neural network-based region reaching formation control for multi-robot systems in obstacle environment." Neurocomputing 333 (2019): 11-21.".
 
 The studied problem is formation control in obstacle environment. The main task to be solved is to achieve a collision-avoiding, obstacle-avoiding, region-reaching formation of a multiagent system considering the existence of bounded disturbances and uncertainty in the agents’ models.
