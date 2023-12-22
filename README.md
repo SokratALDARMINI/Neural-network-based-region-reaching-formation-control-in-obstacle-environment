@@ -15,6 +15,10 @@ The proposed solution uses a combination of different tools which are:
 
  For more information, the user can check the exact meaning of the simulation parameters in the mentioned work.
 
+Simulation results:
+![image](https://github.com/SokratALDARMINI/Neural-network-based-region-reaching-formation-control-in-obstacle-environment/assets/95107709/4dc209e2-a9e7-41dc-8181-9892802a4986)
+
+
 Simulink components are as follows: 
 
 Total simulink system:
